@@ -18,7 +18,7 @@
     <nodes xmi:type="eer:Relationship" xmi:id="_QGeNwAU0Ee2xiev1wulZDA" name="chefia" relationshipLink="_1q16sAgsEe2qboUYU9mqmQ _57kJAAgsEe2qboUYU9mqmQ"/>
     <nodes xmi:type="eer:Relationship" xmi:id="_7PMyAAU1Ee2xiev1wulZDA" name="Possui" relationshipLink="_-6wdwAU1Ee2xiev1wulZDA _gqcZsAYhEe2i0tOYeTPeww"/>
     <nodes xmi:type="eer:Relationship" xmi:id="_6LXrkAU3Ee2xiev1wulZDA" name="Agendamento" relationshipLink="_Hcm4IAU4Ee2xiev1wulZDA _Iml_AAU4Ee2xiev1wulZDA"/>
-    <nodes xmi:type="eer:Attribute" xmi:id="_QLVGUAU5Ee2xiev1wulZDA" name="CENS" type="IDENTIFIER" AttributeLinkTarget="_UgOqAAU5Ee2xiev1wulZDA"/>
+    <nodes xmi:type="eer:Attribute" xmi:id="_QLVGUAU5Ee2xiev1wulZDA" name="CNES" type="IDENTIFIER" AttributeLinkTarget="_UgOqAAU5Ee2xiev1wulZDA"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_Vi9SUAU5Ee2xiev1wulZDA" name="endereço" AttributeLinkTarget="_gbPDcAU5Ee2xiev1wulZDA"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_kY5L0AU5Ee2xiev1wulZDA" name="nome" AttributeLinkTarget="_qI-UEAU5Ee2xiev1wulZDA"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_rXvNQAU5Ee2xiev1wulZDA" name="nome" AttributeLinkTarget="_yB-QoAU5Ee2xiev1wulZDA"/>
