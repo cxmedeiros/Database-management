@@ -1,6 +1,11 @@
 # database-management
+Projeto de um banco de dados da gestão de um Hospital, feito para a disciplina de Gerenciamento de Dados e Informação (GDI) - 2022.1
 
-Elaboração de um banco de dados a partir das seguintes etapas:
+UNIVERSIDADE FEDERAL DE PERNAMBUCO - UFPE
+
+CENTRO DE INFORMÁTICA - CIn
+
+*Otrabalho possui as seguintes etapas:*
 
 - Mini Mundo
 
@@ -9,3 +14,5 @@ Elaboração de um banco de dados a partir das seguintes etapas:
 - Projeto Lógico
 
 - Projeto Físico 
+
+## Grupo:
