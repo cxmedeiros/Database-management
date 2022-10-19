@@ -1,5 +1,5 @@
 # Database-management
-Projeto de um banco de dados da gestão de um Hospital, feito para a disciplina de Gerenciamento de Dados e Informação (GDI) - 2022.1
+Projeto de banco de dados da gestão de um Hospital, feito para a disciplina de Gerenciamento de Dados e Informação (GDI) - 2022.1
 
 UNIVERSIDADE FEDERAL DE PERNAMBUCO - UFPE
 
