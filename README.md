@@ -5,7 +5,7 @@ UNIVERSIDADE FEDERAL DE PERNAMBUCO - UFPE
 
 CENTRO DE INFORMÁTICA - CIn
 
-*Otrabalho possui as seguintes etapas:*
+*O trabalho possui as seguintes etapas:*
 
 - Mini Mundo
 
