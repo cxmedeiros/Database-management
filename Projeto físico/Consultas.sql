@@ -55,7 +55,7 @@ FROM PACIENTE P RIGHT OUTER JOIN
 WHERE A.DT_NASC_ATENDENTE < TO_DATE('1980/12/31','YYYY/MM/DD')
 
 -- BIEL: Projetar os nomes de todos os enfermeiros que atuam na mesma categoria de um enfermeiro com CPF específico, e é mais velho que este
--- (SUBCONSULTA DO TIPO TABELA);
+-- (SUBCONSULTA DO TIPO ESCALAR);
 
 SELECT NOME_ENFERMEIRO
 FROM ENFERMEIRO E
