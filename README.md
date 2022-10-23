@@ -15,6 +15,11 @@ CENTRO DE INFORMÁTICA - CIn
 
 - Projeto Físico 
 
+*Ferramentas utilizadas no trabalho:*
+
+- EER-Case (Sofwtare utilizado para modelagem de entidades e relacionamentos do Banco de Dados);
+- Live SQL - Oracle (Ferramenta web para testar e implementar a criação de tabelas, povoamento e consultas SQL);
+
 ## Grupo:
 * [Camila Xavier de Medeiros (cxm)](https://github.com/cxmedeiros)
 * [Breno Cavalcanti (bmmuc)](https://github.com/bmmuc)
