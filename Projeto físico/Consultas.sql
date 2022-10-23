@@ -150,11 +150,12 @@ WHERE NOT EXISTS
      FROM PACIENTE P
      WHERE P.CPF_PACIENTE_ATENDENTE = A.CPF_ATENDENTE);
 
--- Projetar o nome de todos os atendentes e enfermeiros
+-- Projetar o nome de todos os funcionários (medicos, enfermeiros e atendentes)
 -- (UNION)
 
 SELECT NOME_ENFERMEIRO AS FUNCIONÁRIOS FROM ENFERMEIRO
 UNION SELECT NOME_ATENDENTE FROM ATENDENTE
+UNION SELECT NOME_MEDICO FROM MEDICO
 
 -- Projetar o nome de todos que são médicos e pacientes ao mesmo tempo 
 -- (INTERSECT)
