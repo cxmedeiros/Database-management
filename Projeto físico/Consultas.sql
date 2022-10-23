@@ -153,7 +153,7 @@ WHERE NOT EXISTS
 -- Projetar o nome de todos os atendentes e enfermeiros
 -- (UNION)
 
-SELECT NOME_ENFERMEIRO FROM ENFERMEIRO
+SELECT NOME_ENFERMEIRO AS FUNCIONÁRIOS FROM ENFERMEIRO
 UNION SELECT NOME_ATENDENTE FROM ATENDENTE
 
 -- Projetar o nome de todos que são médicos e pacientes ao mesmo tempo 
