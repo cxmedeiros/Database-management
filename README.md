@@ -17,7 +17,7 @@ CENTRO DE INFORMÁTICA - CIn
 
 *Ferramentas utilizadas no trabalho:*
 
-- EER-Case (Sofwtare utilizado para modelagem de entidades e relacionamentos do Banco de Dados);
+- EER-Case (Software utilizado para modelagem de entidades e relacionamentos do Banco de Dados);
 - Live SQL - Oracle (Ferramenta web para testar e implementar a criação de tabelas, povoamento e consultas SQL);
 
 ## Grupo:
